@@ -60,7 +60,7 @@ def open_img():
     def save_img():
         global filename, img_no
         img = Image.open(filename[img_no])
-        path = "C:\\Users\\kushm\\Downloads\\"
+        path = "C:\\Users\\kushm\\Downloads\\" #change your path here
         img.save(path + firstName + "_edited.png")
         messagebox.showinfo("information", "Your Image is Saved in your desired location", )
 
