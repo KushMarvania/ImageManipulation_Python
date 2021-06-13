@@ -8,4 +8,4 @@ Simple image editor using Tkinter GUI and Pillow library in Python.
 
 # Snaps
 
-<image src="images/one.jpg">
+<image src="images/one.png">
