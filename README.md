@@ -9,3 +9,6 @@ Simple image editor using Tkinter GUI and Pillow library in Python.
 # Snaps
 
 <image src="images/one.png">
+<image src="images/two.png">
+<image src="images/three.png">
+<image src="images/four.png">
